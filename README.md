@@ -10,5 +10,5 @@ If you are using these codes in your researches, kindly cite the following paper
 
 ## MATLAB
 
-To achieve normal vectors, just execute **test_FNE** script.
+To achieve normal vectors, just execute **testFNE** script.
 
