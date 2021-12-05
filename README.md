@@ -31,7 +31,7 @@ To achieve normal vectors, just execute **testFNE** script.
   <tr>
     <td> 
      ```math
-\theat
+\theta
 ```
      Component of normal vector
 </td>
