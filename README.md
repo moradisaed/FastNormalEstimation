@@ -14,7 +14,6 @@ To achieve normal vectors, just execute **testFNE** script.
 
 ## Results
 <p align="center">
-
 <table>
   <tr>
     <td> Input RGB image sample
@@ -22,8 +21,8 @@ To achieve normal vectors, just execute **testFNE** script.
      <td> Input Depth map sample</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_rgb2.png" width=270 height=480></td>
-    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_depth2.png" width=270 height=480></td>
+    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_rgb2.png" width=400 height=480></td>
+    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_depth2.png" width=400 height=480></td>
   </tr>
  </table>
  </p>
