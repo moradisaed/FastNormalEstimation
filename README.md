@@ -12,3 +12,5 @@ If you are using these codes in your researches, kindly cite the following paper
 
 To achieve normal vectors, just execute **testFNE** script.
 
+## Results
+![alt text](https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_rgb2.png?raw=true)
