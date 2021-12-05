@@ -13,4 +13,6 @@ If you are using these codes in your researches, kindly cite the following paper
 To achieve normal vectors, just execute **testFNE** script.
 
 ## Results
-![alt text](https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_rgb2.png?raw=true)
+<p align="center">
+  <img width="640" height="576" src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_rgb2.png">
+</p>
