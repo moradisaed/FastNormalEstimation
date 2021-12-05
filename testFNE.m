@@ -34,7 +34,7 @@ yyy=gtnormals(:,:,1);
 zzz=gtnormals(:,:,3);
 gtTime=toc;
 
-sprintf("The execution time for the proposed method is: %f seconds",gtTime)
+sprintf("The execution time for the baseline method is: %f seconds",gtTime)
 [gt_azimuth,gt_elevation,~] = cart2sph(xxx,yyy,zzz);
 
 figure;imagesc(gt_elevation)
