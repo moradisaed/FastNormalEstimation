@@ -29,9 +29,11 @@ To achieve normal vectors, just execute **testFNE** script.
  <p align="center">
 <table>
   <tr>
-    <td> ```math
+    <td> 
+     ```math
 \theat
-``` Component of normal vector
+```
+     Component of normal vector
 </td>
      <td> ```math
 \phi
