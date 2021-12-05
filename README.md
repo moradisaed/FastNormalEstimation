@@ -29,7 +29,7 @@ To achieve normal vectors, just execute **testFNE** script.
  <p align="center">
 <table>
   <tr>
-    <td> $`a^2+b^2=c^2`$ Component of normal vector
+    <td> <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> Component of normal vector
 </td>
      <td> ```math
 \phi
