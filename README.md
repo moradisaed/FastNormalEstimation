@@ -10,7 +10,7 @@ If you are using these codes in your researches, kindly cite the following paper
 
 ## MATLAB
 
-To achieve normal vectors, just execute **testFNE** script.
+To obtain normal vectors, just execute **testFNE** script.
 
 ## Results
 <p align="center">
