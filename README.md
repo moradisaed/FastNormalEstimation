@@ -34,8 +34,8 @@ To achieve normal vectors, just execute **testFNE** script.
      <td> <img src="https://render.githubusercontent.com/render/math?math=\phi"> Component of normal vector</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_rgb2.png" width=400 height=360></td>
-    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_depth2.png" width=400 height=360></td>
+    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/theta.png" width=400 height=360></td>
+    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/phi.png" width=400 height=360></td>
   </tr>
  </table>
  </p>
