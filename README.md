@@ -1,4 +1,6 @@
-# FastNormalEstimation
+[![View Fast Normal Estimation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/102970-fast-normal-estimation)
+
+# Fast Normal Estimation
 Fast Surface Normal Estimation for Organized Point Clouds (Depth maps)
 
 MATLAB implementations of the following paper:
@@ -39,4 +41,4 @@ To obtain normal vectors, just execute **testFNE** script.
   </tr>
  </table>
  </p>
-[![View Fast Normal Estimation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/102970-fast-normal-estimation)
+
