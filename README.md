@@ -26,3 +26,20 @@ To achieve normal vectors, just execute **testFNE** script.
   </tr>
  </table>
  </p>
+ <p align="center">
+<table>
+  <tr>
+    <td> ```math
+\theat
+``` Component of normal vector
+</td>
+     <td> ```math
+\phi
+``` Component of normal vector</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_rgb2.png" width=400 height=360></td>
+    <td><img src="https://github.com/moradisaed/FastNormalEstimation/blob/main/Data/raw_depth2.png" width=400 height=360></td>
+  </tr>
+ </table>
+ </p>
