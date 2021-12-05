@@ -29,9 +29,6 @@ pC=depth2pts(test_img,cameraParams);
 tic
 gtnormals=calc_normals(pC,35);
 
-xxx=gtnormals(:,:,2);
-yyy=gtnormals(:,:,1);
-zzz=gtnormals(:,:,3);
 gtTime=toc;
 
 sprintf("The execution time for the baseline method is: %f seconds",gtTime)
