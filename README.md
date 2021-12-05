@@ -39,3 +39,4 @@ To obtain normal vectors, just execute **testFNE** script.
   </tr>
  </table>
  </p>
+[![View Fast Normal Estimation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/102970-fast-normal-estimation)
